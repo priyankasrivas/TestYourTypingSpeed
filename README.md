@@ -1,4 +1,4 @@
-Test Your Typing Speed
+# Test Your Typing Speed
 # How to use this app?
 * Click on "Start Test"
 * Type Sample text in the text area
